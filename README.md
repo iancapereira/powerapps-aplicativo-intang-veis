@@ -2,8 +2,7 @@ Projeto de Extensão – Central de Apps DSPI Aracruz
 
 Este repositório documenta o desenvolvimento do aplicativo Central de Apps – DSPI Aracruz, criado como parte do Trabalho de Extensão Acadêmica e desenvolvido em parceria com a empresa Suzano Papel e Celulose, localizada na Barra do Riacho, Aracruz – ES.
 
-Tecnologias Utilizadas
-
+Tecnologias Utilizadas:
 - Microsoft Power Apps (plataforma low-code)
 - SharePoint Online (armazenamento de dados)
 - Power Platform
