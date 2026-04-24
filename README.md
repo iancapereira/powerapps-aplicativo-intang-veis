@@ -1,2 +1,1 @@
-# powerapps-aplicativo-intang-veis
-Repositório de código do aplicativo de Inspeção de Intangíveis
+# Central de Apps – DSPI Aracruz , DDS / Inspeção de Intangiveis
